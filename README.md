@@ -15,7 +15,7 @@ Currently Working on [SwitchSimply](https://dev.switchsimply.itsharsh.com)
 ---
 
 <br/>
-<img src="https://wakatime.com/share/@saloniagrawal/82fa1348-9eb3-4081-89a4-30fd6002c75d.svg "width="50%"/>
+<img src="https://wakatime.com/share/@saloniagrawal/82fa1348-9eb3-4081-89a4-30fd6002c75d.svg" width="50%"/>
 
 <!--==
 **saloniagrawal25/saloniagrawal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
