@@ -10,12 +10,12 @@ Currently Working on [SwitchSimply](https://dev.switchsimply.itsharsh.com)
 
 <br/>
 
-[![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=saloniagrawal25&count_private=true&show_icons=true&theme=radical)](https://github.com/saloniagrawal25/github-readme-stats)
+[![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=saloniagrawal25&count_private=true&show_icons=true&theme=radical&hide=stars,issues)](https://github.com/saloniagrawal25/github-readme-stats)
 
 ---
 
 <br/>
-<img align="center" src="https://wakatime.com/share/@saloniagrawal/82fa1348-9eb3-4081-89a4-30fd6002c75d.svg "width="50%"/>
+<img src="https://wakatime.com/share/@saloniagrawal/82fa1348-9eb3-4081-89a4-30fd6002c75d.svg "width="50%"/>
 
 <!--==
 **saloniagrawal25/saloniagrawal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
