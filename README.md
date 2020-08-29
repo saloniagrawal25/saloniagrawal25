@@ -1,21 +1,24 @@
 ### Hi there 👋
 
+<br/>
+
 ![](https://komarev.com/ghpvc/?username=saloniagrawal25&color=ff69b4)
 
-Currently Working on [SwitchSimply](https://dev.switchsimply.itsharsh.com)
+---
+
+<br/>
+
+### Currently Working
+
+[SwitchSimply](https://dev.switchsimply.itsharsh.com)
 
 [![time tracker](https://wakatime.com/badge/github/switchsimply/Switch-Simply-React.svg)](https://wakatime.com/badge/github/switchsimply/Switch-Simply-React)
 
 ---
 
-<br/>
+[MMMF-Lab](https://mmmf-lab.netlify.app/)
 
-[![Saloni's github stats](https://github-readme-stats.vercel.app/api?username=saloniagrawal25&count_private=true&show_icons=true&theme=radical&hide=stars,issues)](https://github.com/saloniagrawal25/github-readme-stats)
-
----
-
-<br/>
-<img src="https://wakatime.com/share/@saloniagrawal/82fa1348-9eb3-4081-89a4-30fd6002c75d.svg" width="50%"/>
+[![time tracker](https://wakatime.com/badge/github/saloniagrawal25/MMMF-Lab.svg)](https://wakatime.com/badge/github/saloniagrawal25/MMMF-Lab)
 
 <!--==
 **saloniagrawal25/saloniagrawal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
