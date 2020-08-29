@@ -6,8 +6,6 @@
 
 ---
 
-<br/>
-
 ### Currently Working
 
 [SwitchSimply](https://dev.switchsimply.itsharsh.com)
