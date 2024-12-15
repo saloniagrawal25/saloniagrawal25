@@ -8,6 +8,10 @@
 
 ### Currently Working
 
+PepsiCo B2B Project
+
+[![wakatime](https://wakatime.com/badge/user/f9b22840-d4f7-4140-be6f-dc097fbde81e/project/058d5552-a766-40e7-8c2e-6473c41ff471.svg)](https://wakatime.com/badge/user/f9b22840-d4f7-4140-be6f-dc097fbde81e/project/058d5552-a766-40e7-8c2e-6473c41ff471)
+
 [SwitchSimply](https://dev.switchsimply.itsharsh.com)
 
 [![time tracker](https://wakatime.com/badge/github/switchsimply/Switch-Simply-React.svg)](https://wakatime.com/badge/github/switchsimply/Switch-Simply-React)
