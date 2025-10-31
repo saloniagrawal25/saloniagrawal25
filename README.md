@@ -14,21 +14,9 @@ PepsiCo B2B Project
 
 ---
 
-FastForge InvoiceCloud Utility
+Local Happinez Project
 
-[![wakatime](https://wakatime.com/badge/user/f9b22840-d4f7-4140-be6f-dc097fbde81e/project/cc540645-2843-4ac3-88b7-f992dfb6ee1b.svg)](https://wakatime.com/badge/user/f9b22840-d4f7-4140-be6f-dc097fbde81e/project/cc540645-2843-4ac3-88b7-f992dfb6ee1b)
-
----
-
-[SwitchSimply](https://dev.switchsimply.itsharsh.com)
-
-[![time tracker](https://wakatime.com/badge/github/switchsimply/Switch-Simply-React.svg)](https://wakatime.com/badge/github/switchsimply/Switch-Simply-React)
-
----
-
-[MMMF-Lab](https://mmmf-lab.netlify.app/)
-
-[![time tracker](https://wakatime.com/badge/github/saloniagrawal25/MMMF-Lab.svg)](https://wakatime.com/badge/github/saloniagrawal25/MMMF-Lab)
+[![wakatime](https://wakatime.com/badge/user/f9b22840-d4f7-4140-be6f-dc097fbde81e/project/449dd804-058e-422d-8ea3-a25e2c971729.svg)](https://wakatime.com/badge/user/f9b22840-d4f7-4140-be6f-dc097fbde81e/project/449dd804-058e-422d-8ea3-a25e2c971729)
 
 <!--==
 **saloniagrawal25/saloniagrawal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
