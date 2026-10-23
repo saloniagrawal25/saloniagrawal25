@@ -14,6 +14,12 @@ PepsiCo B2B Project
 
 ---
 
+DreamEarl
+
+[![wakatime](https://wakatime.com/badge/user/f9b22840-d4f7-4140-be6f-dc097fbde81e/project/2f2547bb-9c1a-4e44-b68e-ae4b340c9280.svg)](https://wakatime.com/badge/user/f9b22840-d4f7-4140-be6f-dc097fbde81e/project/2f2547bb-9c1a-4e44-b68e-ae4b340c9280)
+
+---
+
 Local Happinez Project
 
 [![wakatime](https://wakatime.com/badge/user/f9b22840-d4f7-4140-be6f-dc097fbde81e/project/449dd804-058e-422d-8ea3-a25e2c971729.svg)](https://wakatime.com/badge/user/f9b22840-d4f7-4140-be6f-dc097fbde81e/project/449dd804-058e-422d-8ea3-a25e2c971729)
